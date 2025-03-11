@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAAI_CAR", "WebApplication1\IAAI_CAR.csproj", "{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iaai.Nsubstitute", "iaai.Nsubstitute\iaai.Nsubstitute.csproj", "{18C663FA-25A2-41F2-8FC9-E7BB8672351C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iaai.Mongo2Go", "iaai.Mongo2Go\iaai.Mongo2Go.csproj", "{AA03D1A0-F1FE-4A8F-BFF9-AD8DF9DEEF77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C663FA-25A2-41F2-8FC9-E7BB8672351C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C663FA-25A2-41F2-8FC9-E7BB8672351C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C663FA-25A2-41F2-8FC9-E7BB8672351C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C663FA-25A2-41F2-8FC9-E7BB8672351C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA03D1A0-F1FE-4A8F-BFF9-AD8DF9DEEF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA03D1A0-F1FE-4A8F-BFF9-AD8DF9DEEF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA03D1A0-F1FE-4A8F-BFF9-AD8DF9DEEF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA03D1A0-F1FE-4A8F-BFF9-AD8DF9DEEF77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
