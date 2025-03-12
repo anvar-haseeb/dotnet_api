@@ -140,3 +140,4 @@ D:\DOTNET\IAAI_DOT_API\iaai.Mongo2Go\obj\Debug\net8.0\refint\iaai.Mongo2Go.dll
 D:\DOTNET\IAAI_DOT_API\iaai.Mongo2Go\obj\Debug\net8.0\iaai.Mongo2Go.pdb
 D:\DOTNET\IAAI_DOT_API\iaai.Mongo2Go\obj\Debug\net8.0\iaai.Mongo2Go.genruntimeconfig.cache
 D:\DOTNET\IAAI_DOT_API\iaai.Mongo2Go\obj\Debug\net8.0\ref\iaai.Mongo2Go.dll
+D:\DOTNET\IAAI_DOT_API\iaai.Mongo2Go\obj\Debug\net8.0\iaai.Mongo2Go.sourcelink.json

@@ -1,0 +1,15 @@
+D:\DOTNET\IAAI_DOT_API\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\DOTNET\IAAI_DOT_API\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\DOTNET\IAAI_DOT_API\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\DOTNET\IAAI_DOT_API\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\DOTNET\IAAI_DOT_API\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\DOTNET\IAAI_DOT_API\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\IAAI_DOT_API\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\DOTNET\IAAI_DOT_API\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\DOTNET\IAAI_DOT_API\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\DOTNET\IAAI_DOT_API\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+D:\DOTNET\IAAI_DOT_API\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\DOTNET\IAAI_DOT_API\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\DOTNET\IAAI_DOT_API\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\DOTNET\IAAI_DOT_API\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\DOTNET\IAAI_DOT_API\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

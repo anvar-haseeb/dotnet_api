@@ -17,7 +17,7 @@ namespace IAAI_CAR.Services
 
         public List<TrnCarAuctionDetails> GetAllCars()
         {
-            return _carRepository.GetAllCars();
+            return _carRepository.GetAllCars().Where(car=>car.Mileage>50000).ToList();
         }
 
         public TrnCarAuctionDetails? GetCarById(string id)

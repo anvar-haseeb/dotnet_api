@@ -56,10 +56,13 @@ D:\DOTNET\IAAI_DOT_API\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.
 D:\DOTNET\IAAI_DOT_API\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IAAI_CAR.props
 D:\DOTNET\IAAI_DOT_API\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IAAI_CAR.props
 D:\DOTNET\IAAI_DOT_API\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
-D:\DOTNET\IAAI_DOT_API\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\DOTNET\IAAI_DOT_API\WebApplication1\obj\Debug\net8.0\IAAI_CAR.csproj.Up2Date
 D:\DOTNET\IAAI_DOT_API\WebApplication1\obj\Debug\net8.0\IAAI_CAR.dll
 D:\DOTNET\IAAI_DOT_API\WebApplication1\obj\Debug\net8.0\refint\IAAI_CAR.dll
 D:\DOTNET\IAAI_DOT_API\WebApplication1\obj\Debug\net8.0\IAAI_CAR.pdb
 D:\DOTNET\IAAI_DOT_API\WebApplication1\obj\Debug\net8.0\IAAI_CAR.genruntimeconfig.cache
 D:\DOTNET\IAAI_DOT_API\WebApplication1\obj\Debug\net8.0\ref\IAAI_CAR.dll
+D:\DOTNET\IAAI_DOT_API\WebApplication1\obj\Debug\net8.0\IAAI_CAR.sourcelink.json
+D:\DOTNET\IAAI_DOT_API\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\DOTNET\IAAI_DOT_API\WebApplication1\bin\Debug\net8.0\MediatR.dll
+D:\DOTNET\IAAI_DOT_API\WebApplication1\bin\Debug\net8.0\MediatR.Contracts.dll

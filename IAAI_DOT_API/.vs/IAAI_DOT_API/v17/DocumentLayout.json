@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\DOTNET\\IAAI_DOT_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA03D1A0-F1FE-4A8F-BFF9-AD8DF9DEEF77}|iaai.Mongo2Go\\iaai.Mongo2Go.csproj|d:\\dotnet\\iaai_dot_api\\iaai.mongo2go\\carservicestestmongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA03D1A0-F1FE-4A8F-BFF9-AD8DF9DEEF77}|iaai.Mongo2Go\\iaai.Mongo2Go.csproj|solutionrelative:iaai.mongo2go\\carservicestestmongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|d:\\dotnet\\iaai_dot_api\\webapplication1\\queries\\getallcarsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|solutionrelative:webapplication1\\queries\\getallcarsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|d:\\dotnet\\iaai_dot_api\\webapplication1\\models\\trncarauctiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|solutionrelative:webapplication1\\models\\trncarauctiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18C663FA-25A2-41F2-8FC9-E7BB8672351C}|iaai.Nsubstitute\\iaai.Nsubstitute.csproj|d:\\dotnet\\iaai_dot_api\\iaai.nsubstitute\\carservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18C663FA-25A2-41F2-8FC9-E7BB8672351C}|iaai.Nsubstitute\\iaai.Nsubstitute.csproj|solutionrelative:iaai.nsubstitute\\carservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|d:\\dotnet\\iaai_dot_api\\webapplication1\\commands\\addcarcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|solutionrelative:webapplication1\\commands\\addcarcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|d:\\dotnet\\iaai_dot_api\\webapplication1\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,24 +27,44 @@
       "RelativeMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|solutionrelative:webapplication1\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|d:\\dotnet\\iaai_dot_api\\webapplication1\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|solutionrelative:webapplication1\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|d:\\dotnet\\iaai_dot_api\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|d:\\dotnet\\iaai_dot_api\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|d:\\dotnet\\iaai_dot_api\\webapplication1\\iaai_car.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|solutionrelative:webapplication1\\iaai_car.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|d:\\dotnet\\iaai_dot_api\\webapplication1\\data\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|solutionrelative:webapplication1\\data\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|d:\\dotnet\\iaai_dot_api\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|d:\\dotnet\\iaai_dot_api\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{93AF9291-2129-4B0B-8EC7-85D90AF27C8E}|LINQ\\LINQ.csproj|d:\\dotnet\\iaai_dot_api\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AF9291-2129-4B0B-8EC7-85D90AF27C8E}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AF9291-2129-4B0B-8EC7-85D90AF27C8E}|LINQ\\LINQ.csproj|d:\\dotnet\\iaai_dot_api\\linq\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93AF9291-2129-4B0B-8EC7-85D90AF27C8E}|LINQ\\LINQ.csproj|solutionrelative:linq\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA03D1A0-F1FE-4A8F-BFF9-AD8DF9DEEF77}|iaai.Mongo2Go\\iaai.Mongo2Go.csproj|d:\\dotnet\\iaai_dot_api\\iaai.mongo2go\\carservicestestmongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA03D1A0-F1FE-4A8F-BFF9-AD8DF9DEEF77}|iaai.Mongo2Go\\iaai.Mongo2Go.csproj|solutionrelative:iaai.mongo2go\\carservicestestmongo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C663FA-25A2-41F2-8FC9-E7BB8672351C}|iaai.Nsubstitute\\iaai.Nsubstitute.csproj|d:\\dotnet\\iaai_dot_api\\iaai.nsubstitute\\carservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C663FA-25A2-41F2-8FC9-E7BB8672351C}|iaai.Nsubstitute\\iaai.Nsubstitute.csproj|solutionrelative:iaai.nsubstitute\\carservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|d:\\dotnet\\iaai_dot_api\\webapplication1\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|solutionrelative:webapplication1\\data\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|d:\\dotnet\\iaai_dot_api\\webapplication1\\data\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0F2605-9F46-43A5-8C8B-098AC2DABC7B}|WebApplication1\\IAAI_CAR.csproj|solutionrelative:webapplication1\\data\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +74,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllCarsQuery.cs",
+              "DocumentMoniker": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\Queries\\GetAllCarsQuery.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Queries\\GetAllCarsQuery.cs",
+              "ToolTip": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\Queries\\GetAllCarsQuery.cs",
+              "RelativeToolTip": "WebApplication1\\Queries\\GetAllCarsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:38:43.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCarCommand.cs",
+              "DocumentMoniker": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\Commands\\AddCarCommand.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Commands\\AddCarCommand.cs",
+              "ToolTip": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\Commands\\AddCarCommand.cs",
+              "RelativeToolTip": "WebApplication1\\Commands\\AddCarCommand.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA0wCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:44:52.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebApplication1.http",
+              "DocumentMoniker": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\WebApplication1.http",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.http",
+              "ToolTip": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\WebApplication1.http",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.http",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-12T08:59:02.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\DOTNET\\IAAI_DOT_API\\LINQ\\Game.cs",
+              "RelativeDocumentMoniker": "LINQ\\Game.cs",
+              "ToolTip": "D:\\DOTNET\\IAAI_DOT_API\\LINQ\\Game.cs",
+              "RelativeToolTip": "LINQ\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:27:38.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET\\IAAI_DOT_API\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "D:\\DOTNET\\IAAI_DOT_API\\LINQ\\Program.cs",
+              "RelativeToolTip": "LINQ\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:24:38.502Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -68,14 +153,14 @@
               "RelativeDocumentMoniker": "WebApplication1\\Models\\TrnCarAuctionDetails.cs",
               "ToolTip": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\Models\\TrnCarAuctionDetails.cs",
               "RelativeToolTip": "WebApplication1\\Models\\TrnCarAuctionDetails.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwD0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T05:30:38.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "CarServicesTestMongo.cs",
               "DocumentMoniker": "D:\\DOTNET\\IAAI_DOT_API\\iaai.Mongo2Go\\CarServicesTestMongo.cs",
               "RelativeDocumentMoniker": "iaai.Mongo2Go\\CarServicesTestMongo.cs",
@@ -94,7 +179,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\Repository\\CarRepository.cs",
               "ToolTip": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\Repository\\CarRepository.cs",
               "RelativeToolTip": "WebApplication1\\Repository\\CarRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA9wAkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAA7wD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T07:39:40.839Z",
               "EditorCaption": ""
@@ -102,7 +187,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IAAI_CAR",
+              "Title": "IAAI_CAR.csproj",
               "DocumentMoniker": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\IAAI_CAR.csproj",
               "RelativeDocumentMoniker": "WebApplication1\\IAAI_CAR.csproj",
               "ToolTip": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\IAAI_CAR.csproj",
@@ -120,14 +205,14 @@
               "RelativeDocumentMoniker": "WebApplication1\\Services\\CarService.cs",
               "ToolTip": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\Services\\CarService.cs",
               "RelativeToolTip": "WebApplication1\\Services\\CarService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBEAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewBEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T06:30:54.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "CarServiceTests.cs",
               "DocumentMoniker": "D:\\DOTNET\\IAAI_DOT_API\\iaai.Nsubstitute\\CarServiceTests.cs",
               "RelativeDocumentMoniker": "iaai.Nsubstitute\\CarServiceTests.cs",
@@ -140,20 +225,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
               "ToolTip": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwCsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T09:15:58.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
@@ -172,14 +257,14 @@
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CarController.cs",
               "ToolTip": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\Controllers\\CarController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\CarController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T10:31:30.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "MongoDBContext.cs",
               "DocumentMoniker": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\Data\\MongoDBContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\MongoDBContext.cs",
@@ -192,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "MongoDBSettings.cs",
               "DocumentMoniker": "D:\\DOTNET\\IAAI_DOT_API\\WebApplication1\\Data\\MongoDBSettings.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\MongoDBSettings.cs",

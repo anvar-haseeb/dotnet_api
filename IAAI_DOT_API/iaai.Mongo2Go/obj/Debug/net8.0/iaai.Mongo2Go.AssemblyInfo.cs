@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iaai.Mongo2Go")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e35765781ae31803776fc5725c2df0870107627")]
 [assembly: System.Reflection.AssemblyProductAttribute("iaai.Mongo2Go")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iaai.Mongo2Go")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

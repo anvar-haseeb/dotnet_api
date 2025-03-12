@@ -14,6 +14,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddMediatR(configuration =>
+{
+    configuration.RegisterServicesFromAssemblyContaining<Program>();
+}
+);
 
 builder.Services.Configure<MongoDBSettings>(
 builder.Configuration.GetSection("MongoDBSettings"));

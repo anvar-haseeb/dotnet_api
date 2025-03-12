@@ -1,5 +1,8 @@
-﻿using IAAI_CAR.Models;
+﻿using IAAI_CAR.Commands;
+using IAAI_CAR.Models;
 using IAAI_CAR.Services;
+using MediatR;
+using Microsoft.AspNetCore.Components.Forms;
 using Microsoft.AspNetCore.Mvc;
 
 namespace IAAI_CAR.Controllers
@@ -9,10 +12,11 @@ namespace IAAI_CAR.Controllers
     public class CarController : ControllerBase
     {
         private readonly CarService _carService;
-
-        public CarController(CarService carService)
+        private readonly IMediator _mediator;
+        public CarController(CarService carService, IMediator mediator)
         {
             _carService = carService;
+            _mediator = mediator;
         }
 
         [HttpGet]
@@ -32,8 +36,17 @@ namespace IAAI_CAR.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateCar(TrnCarAuctionDetails car)
         {
-            var success = await _carService.CreateCarAsync(car);
-            return success ? Ok(car) : BadRequest("Failed to create car.");
+            var command = new AddCarCommand
+            {
+                Id = car.Id,
+                Make = car.Make,
+                Model = car.Model,
+                Auction_Date = car.Auction_Date,
+            };
+            _mediator.Send(command);
+            //var success = await _carService.CreateCarAsync(car);
+            //return success ? Ok(car) : BadRequest("Failed to create car.");
+            return Ok(car);
         }
 
         [HttpDelete("{id}")]
