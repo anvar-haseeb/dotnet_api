@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IAAI_CAR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e35765781ae31803776fc5725c2df0870107627")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9610896dffb25a8b8d37b458bc342032a01c674")]
 [assembly: System.Reflection.AssemblyProductAttribute("IAAI_CAR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IAAI_CAR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

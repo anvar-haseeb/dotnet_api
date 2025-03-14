@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nmongo2go")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9610896dffb25a8b8d37b458bc342032a01c674")]
 [assembly: System.Reflection.AssemblyProductAttribute("nmongo2go")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nmongo2go")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

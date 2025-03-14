@@ -2,7 +2,6 @@
 using IAAI_CAR.Models;
 using IAAI_CAR.Services;
 using MediatR;
-using Microsoft.AspNetCore.Components.Forms;
 using Microsoft.AspNetCore.Mvc;
 
 namespace IAAI_CAR.Controllers
@@ -43,7 +42,7 @@ namespace IAAI_CAR.Controllers
                 Model = car.Model,
                 Auction_Date = car.Auction_Date,
             };
-            _mediator.Send(command);
+            await _mediator.Send(command);
             //var success = await _carService.CreateCarAsync(car);
             //return success ? Ok(car) : BadRequest("Failed to create car.");
             return Ok(car);

@@ -4,6 +4,7 @@ using System.Text.Json.Serialization;
 using MediatR;
 using IAAI_CAR.Services;
 using IAAI_CAR.Models;
+using IAAI_CAR.Events;
 
 namespace IAAI_CAR.Commands
 {
@@ -31,7 +32,7 @@ namespace IAAI_CAR.Commands
         public DateTime? Auction_Date { get; set; } // Optional (nullable)
     }
 
-    public class AddCarCommandHandler(CarService _carService) : IRequestHandler<AddCarCommand>
+    public class AddCarCommandHandler(CarService _carService, IMediator mediator) : IRequestHandler<AddCarCommand>
     {
   
         public async Task Handle(AddCarCommand request, CancellationToken cancellationToken)
@@ -46,7 +47,8 @@ namespace IAAI_CAR.Commands
                 Location = request.Location,
                 Auction_Date = request.Auction_Date
             });
-           
+            await mediator.Publish(new CarAddedEvent(request.Id, request.Make, request.Model, request.Auction_Date ?? DateTime.Now), cancellationToken);
+
         }
     }
 
